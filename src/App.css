@@ -11,6 +11,7 @@ body {
   margin: 0;
   color: #333333;
   font-family: var(--type-first);
+  padding-top: 4rem; /* por cauda da altura fixa do header */
 }
 
 h1, h2, h3, h4, p {
@@ -37,6 +38,10 @@ button, input {
   font-size: 1rem;
   font-family: var(--type-first);
   color: #333333;
+}
+
+a {
+  text-decoration: none;
 }
 
 /* classe geral */

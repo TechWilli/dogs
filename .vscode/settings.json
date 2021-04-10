@@ -4,6 +4,7 @@
     "node_modules": true,
     // ".vscode": true,
     ".gitignore": true,
+    ".prettierignore": true,
     // "package.json": true,
     "package-lock.json": true,
     "yarn.lock": true,
